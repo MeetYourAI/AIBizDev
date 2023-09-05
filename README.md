@@ -1,2 +1,3 @@
-# Template
-Base templates to reuse for creating new websites
+# Static frontend prototype repo for AI Biz Dev
+
+Team: Hasan and Anaïs Gilbert
