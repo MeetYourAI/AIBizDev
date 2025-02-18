@@ -143,7 +143,7 @@ or for development:
 ## **Repository Structure**
 
     AI-Biz-Development/
-    │-- .vscode/                         # Visual Studio Code configurations
+    │-- .vscode/                          # Visual Studio Code configurations
     │-- _src/scss/                        # SCSS files for UI styling
     │-- assets/                           # Business insights visual assets
     │-- css/                              # Frontend stylesheets
